@@ -6,6 +6,6 @@ For this POC, only the following stocks are included, but there is no technical 
 - General Motors (GM)
 
 The repository is organized as follows:    
-- `api`: it contains the scripts to collect the news data    
+- `api`: it contains the scripts to collect and clean the news data   
 - `data`: it contains the price data for the stocks
 - `notebooks`: it contains jupyter notebooks to fit the models
