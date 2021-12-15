@@ -9,8 +9,7 @@ import datetime
 from tenacity import retry, stop_after_attempt, wait_fixed
 
 
-# API_KEY = '<INSERT YOUR KEY HERE>'
-API_KEY = "YDDCAHJl74hdu3yZdlEXZAhNRZV5AVBy"
+API_KEY = '<INSERT YOUR KEY HERE>'
 MAX_RANK = 10
 
 QUERIES = {
